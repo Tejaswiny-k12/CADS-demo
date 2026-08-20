@@ -1,0 +1,10 @@
+{
+  "device_id": "5a510ff5f57c467c2b02dd48733c132d",
+  "device_name": "SIM-ECG-01",
+  "status": "ACTIVE",
+  "threat_score": 0,
+  "expected_path": [
+    "gateway-SW-01",
+    "gateway-SW-02"
+  ]
+}
