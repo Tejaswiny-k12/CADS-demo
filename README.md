@@ -54,6 +54,13 @@ The dashboard includes:
 - Reproducible experiments: fixed scenario table and deterministic simulator commands.
 - Baseline comparison: signature-only baseline vs full CADS pipeline.
 - Performance metrics: verification latency mean/p95 and end-to-end latency.
+  <img width="1846" height="941" alt="Screenshot 2026-08-20 232342" src="https://github.com/user-attachments/assets/5f8fb02d-f586-4a50-be37-d3f0d3da4614" />
+  
+  <img width="1860" height="549" alt="Screenshot 2026-08-20 232443" src="https://github.com/user-attachments/assets/0073d909-0f6c-4ce3-9352-ace4083aaaaf" />
+  
+  <img width="1658" height="588" alt="Screenshot 2026-08-20 232457" src="https://github.com/user-attachments/assets/336b246c-db45-417f-8294-4aa756060c67" />
+
+
 
 Implementation Process
 1. Device provisioning creates ECC P-256 device/cloud keys and a device registry entry.
